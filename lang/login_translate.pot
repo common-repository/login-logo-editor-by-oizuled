@@ -1,0 +1,120 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Login Logo Editor\n"
+"POT-Creation-Date: 2019-06-21 11:25-0700\n"
+"PO-Revision-Date: 2019-06-21 11:25-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: login-logo-by-oizuled.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: login-logo-by-oizuled.php:43 options.php:9
+msgid "Login Logo Options"
+msgstr ""
+
+#: login-logo-by-oizuled.php:43
+msgid "Login Logo"
+msgstr ""
+
+#: login-logo-by-oizuled.php:173 login-logo-by-oizuled.php:174
+msgid "Choose Image"
+msgstr ""
+
+#: options.php:4
+msgid "Customize The Background Of Your Login Page"
+msgstr ""
+
+#: options.php:5
+msgid "Check it out"
+msgstr ""
+
+#: options.php:6
+msgid ""
+"With Full Screen Background Images you can easily customize the background "
+"of your login page and any other page or post on your site. Add beautiful "
+"images or videos to give your login page a special unique touch!"
+msgstr ""
+
+#: options.php:15
+msgid "Enter a URL or upload an image to use for your login logo"
+msgstr ""
+
+#: options.php:19
+msgid "Upload Image"
+msgstr ""
+
+#: options.php:21
+msgid "Your image will be shown as-is and will not be scaled down."
+msgstr ""
+
+#: options.php:22
+msgid "Your image will be centered above the login form."
+msgstr ""
+
+#: options.php:23
+msgid "You may wish to resize your image if it is too large."
+msgstr ""
+
+#: options.php:27
+msgid "Enter the URL of you would like the login logo to point to."
+msgstr ""
+
+#: options.php:27
+msgid "By default it points to"
+msgstr ""
+
+#: options.php:31
+msgid ""
+"Enter the text to display when you hover your mouse over the login logo."
+msgstr ""
+
+#: options.php:31
+msgid "By default it says \"Powered by WordPress\"."
+msgstr ""
+
+#: options.php:35
+msgid "Enter custom CSS for the login screen."
+msgstr ""
+
+#: options.php:35
+msgid "If you are not familiar with CSS, you can leave this blank."
+msgstr ""
+
+#: options.php:37
+msgid "CSS options can be found by clicking here."
+msgstr ""
+
+#: options.php:54
+msgid ""
+"How your login logo image looks (be sure to click Save Changes to refresh "
+"this view):"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Login Logo Editor"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://amplifyplugins.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A plugin to change the logo displayed on the admin login screen."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Scott DeLuzio"
+msgstr ""
